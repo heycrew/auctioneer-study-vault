@@ -1,0 +1,17 @@
+# Obsidian vault gitignore
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/themes/
+.claude/
+.claudian/
+.DS_Store
+Thumbs.db
+
+# Large source PDFs (keep only text versions)
+01.原始资料/*.pdf
+*.pdf
+
+# Temp files
+*.tmp
+*.bak
